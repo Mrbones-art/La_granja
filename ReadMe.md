@@ -1,14 +1,14 @@
-# PrÃ¡ctica de Motores de Videojuegos I - UCIC ðŸŽ®
+# Practica de Motores de Videojuegos I - UCIC 
 
-## ðŸ§‘ Nombre del alumno/a:
+## Nombre del alumno/a:
 **Nombre(s):** [Ivan]  
 **Iniciales:** [IMM]
 
-## ðŸ—‚ï¸ Practica #
+## Practica #
 **TÃ­tulo de la prÃ¡ctica:** [Movimiento del personaje]  
 **Fecha de entrega:** [24/06/2025]
 
-## ðŸ§  Descripcion
+##  Descripcion
 [en esta practica se nos enseño a crear un sprite subdividido y un handeler de movimiento para jugador]
 
 ## Instrucciones de uso
