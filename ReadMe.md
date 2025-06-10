@@ -5,7 +5,7 @@
 **Iniciales:** [IMM]
 
 ## Practica #
-**TÃ­tulo de la prÃ¡ctica:** [Movimiento del personaje]  
+**Ti­tulo de la practica:** [Movimiento del personaje]  
 **Fecha de entrega:** [24/06/2025]
 
 ##  Descripcion
